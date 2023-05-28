@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/vVKqa0NMZzFyE" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/school-teacher-grover-vVKqa0NMZzFyE">via GIPHY</a></p>
+  </div>
 
 <!--
 **kusutoqlu/kusutoqlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
