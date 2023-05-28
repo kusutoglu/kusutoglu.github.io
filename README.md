@@ -1,10 +1,10 @@
 ### Hi 👋 I'm Hüseyin Kusutoğlu
 
 
-🎓I'm currently Management Information Systems graduate student at Bandırma 17 Eylül University
-💻I'm interested in MCU Programing
-🧠I'm currently learning these following technologies: Javascript, ReactJs, Data Science
-📩 You can contact me at kusutoglu@gmail.com
+###🎓I'm currently Management Information Systems graduate student at Bandırma 17 Eylül University
+###💻I'm interested in MCU Programing
+###🧠I'm currently learning these following technologies: Javascript, ReactJs, Data Science
+###📩 You can contact me at kusutoglu@gmail.com
 
 💻 Languages and Tools
 <div id="header" align="center">
