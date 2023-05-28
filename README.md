@@ -2,7 +2,8 @@
 <h3 align="center">A passionate ICT Teacher from Turkiye</h3>
 
 - 🔭 I’m currently working on **Master's Thesis**
-- 🎓 I'm currently Management Information Systems master student at Bandırma 17 Eylül University. 
+- 📚 I'm currently Management Information Systems master student at Bandırma 17 Eylül University.
+- 🎓 I'm graduated from Uludağ University Textile Engineering and Anadolu University Management Information Systems.
 - 💻 I'm interested in MCU Programming.
 - 🧠 I’m currently learning **Javascript, ReactJs, Data Science**
 - 📫 How to reach me **kusutoglu@gmail.com**
