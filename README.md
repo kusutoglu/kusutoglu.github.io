@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT teacher from Turkiye</h3>
 
 - 🔭 I’m currently working on **Master's Thesis**
-- 🎓 I'm currently Management Information Systems master student at Bursa Technical University.
+- 🎓 I'm currently Management Information Systems master student at Bandırma 17 Eylül University.
 - 💻 I'm interested in MCU Programming.
 - 🧠 I’m currently learning **Javascript, ReactJs, Data Science**
 - 📫 How to reach me **kusutoglu@gmail.com**
